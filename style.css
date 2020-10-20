@@ -1,0 +1,18 @@
+#root {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+svg {
+  background-color: #fafafa;
+}
+
+#tooltip {
+  position: absolute;
+  padding: 10px;
+  background-color: lavender;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+  opacity: 0;
+}
